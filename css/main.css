@@ -1,0 +1,42 @@
+.about_section
+{
+    width: 90%;
+    height: 300px;
+    background-color:#fff;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+.item
+{
+    width: 30%;
+    height: 150px;
+    background-color: #fff;
+    float: left;
+    margin-left: 20px;
+}
+
+.img
+{
+    float: left;
+    margin-top: 30px;
+}
+h5
+{
+    text-align: left;
+    -webkit-font-smoothing: initial;  
+    font-family: "Roboto";
+    margin-left: 60px;
+    margin-top: 30px;
+    font-size: larger;
+}
+p
+{
+    float: left;
+    text-align: left;
+    margin-left: 60px;
+    margin-top: -15;
+    color: #888;
+    line-height: 1.86em;
+    font-size: 15px;
+    font-family: 'Open Sans',arial;
+}
